@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Large outputs
+outputs/
+archive/
+
+# Data
+data/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Temp
+tmp/
+temp/
